@@ -19,3 +19,5 @@ einops-exts
 pyvim
 openai
 wfdb
+kagglehub
+pyreadr
